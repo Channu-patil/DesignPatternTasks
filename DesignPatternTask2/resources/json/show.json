@@ -1,0 +1,37 @@
+[
+	{
+		"show" : {
+			"showName":"Liger",
+			"showTime":"9:45",
+			"seatsAvailable":"50"
+		}
+	},
+	{
+		"show" : {
+			"showName":"Liger",
+			"showTime":"12:45",
+			"seatsAvailable":"35"
+		}
+	},
+	{
+		"show" : {
+			"showName":"Liger",
+			"showTime":"15:45",
+			"seatsAvailable":"40"
+		}
+	},
+	{
+		"show" : {
+			"showName":"Liger",
+			"showTime":"18:45",
+			"seatsAvailable":"90"
+		}
+	},
+	{
+		"show" : {
+			"showName":"Liger",
+			"showTime":"22:45",
+			"seatsAvailable":"60"
+		}
+	}
+]

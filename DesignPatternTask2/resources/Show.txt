@@ -1,0 +1,3 @@
+showName=Liger
+showTime=9:45
+seatsAvailable=50
